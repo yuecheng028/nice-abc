@@ -46,7 +46,7 @@
     }
 </style>
 <body>
-    <div align="center"><img src="timg.png" height="100" ></div>
+    <div align="center"><img src="timg.png" height="100" alt="厦大校徽"></div>
     <table border="1" align="center">
         <tr>
             <th>姓名</th><th>性别</th><th>学号</th><th>班级</th>
